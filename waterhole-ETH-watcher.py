@@ -8,7 +8,7 @@ import json
 import curses
 from email.mime.text import MIMEText
 
-mailto = ["rcing@qq.com"]# receiving mailbox
+mailto = ["XXX@qq.com"]# receiving mailbox
 
 mail_host = "smtp.163.com"# SMTP of sending mailbox
 mail_user = "XXX@163.com"# sending mailbox
