@@ -45,7 +45,7 @@ def send_mail(to_list,sub,context):
 
 
 url = 'https://eth.waterhole.io:8080/api/accounts/0x7cd26d6d0362eaa6210943e32128cb3ccb019998'
-# Replace the url with your Waterhole's api
+# Replace the url with your Waterhole's API. Like this "https://eth.waterhole.io:8080/api/accounts/'YourAddress'"
 
 headers = {
                 "GET":url,
