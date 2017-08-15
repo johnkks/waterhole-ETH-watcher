@@ -80,7 +80,7 @@ while True:
 		hr = v["hr"]
 		offline = v["offline"]
 
-		if hr > 80000000: # Setting your hashrate standard(80000000=80MH/s)
+		if hr > 80000000: # Setting your hashrate standard(80000000 = 80MH/s)
 			
 			if k in badminer:
 				badminer.remove(k)
